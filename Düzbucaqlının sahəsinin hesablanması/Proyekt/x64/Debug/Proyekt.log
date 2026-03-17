@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\james\source\repos\Proyekt\Proyekt\Source.cpp(8,19): warning C4101: 'sahe': unreferenced local variable
+  Proyekt.vcxproj -> C:\Users\james\source\repos\Proyekt\x64\Debug\Proyekt.exe
